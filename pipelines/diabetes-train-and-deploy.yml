@@ -2,7 +2,7 @@ variables:
   ml-ws-connection: 'wanji-ws' # Workspace Service Connection name
   ml-ws: 'wanji-ws' # AML Workspace name
   ml-rg: 'wanji-ws-rg' # AML resource Group name
-  ml-ct: 'cpu-cluster-1' # AML Compute cluster name
+  ml-ct: 'demo-compute' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
   ml-exp: 'exp-test' # Experiment name
   ml-model-name: 'diabetes-model' # Model name
